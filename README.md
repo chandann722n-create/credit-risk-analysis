@@ -22,3 +22,7 @@ Developed predictive model to identify high-risk borrowers, achieving **ROC-AUC:
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Visualization:** Power BI (DAX, AI features)
 - **Tools:** GitHub Copilot, ChatGPT (feature engineering assistance)
+
+## Contact
+Chandan N - chandann722n@gmail.com  
+LinkedIn:  linkedin.com/in/chandan2121
